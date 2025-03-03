@@ -5,11 +5,6 @@
     margin-right: 5px;
 }
 p{margin-top: 10px;}
-.container {
-    display: grid;
-    grid-template-columns: auto;
-    padding: 10px;
-}
 .con{
     box-shadow: 7.8px 15.5px 15.5px hsl(0deg 0% 0% / 0.26);
     border-radius: 15px;
@@ -25,4 +20,10 @@ p{margin-top: 10px;}
     margin-left: 50px;
     margin-top: 2px;
 }
-img{margin-left: 200px;}
+img{margin-left: 200px;
+margin-top: 50px;}
+.container {
+    display: flex;
+    grid-template-columns: auto;
+    padding: 10px;
+}
