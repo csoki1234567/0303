@@ -1,0 +1,9 @@
+#bold{
+    font-weight: lighter;
+}
+*{margin: 0;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+p{margin-top: 10px;}
